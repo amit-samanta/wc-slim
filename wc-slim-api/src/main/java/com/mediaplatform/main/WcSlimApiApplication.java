@@ -8,6 +8,8 @@ public class WcSlimApiApplication {
  
 	public static void main(String[] args) {
 		SpringApplication.run(WcSlimApiApplication.class, args);
+		
+		
 	}
 
 }
